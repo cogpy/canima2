@@ -211,13 +211,13 @@ do hereby make oath and state that:
 
 8.9 The Applicant invokes breach of fiduciary duty liability. The breaches are established: (1) The Applicant breached fiduciary duty to the Second Respondent (co-director) by unauthorized R900K transfers; (2) The Applicant breached fiduciary duty to beneficiaries (as trustee) by attacking them with interdict; (3) Mr. Bantjies breached fiduciary duty to beneficiaries by dismissing audit request and facilitating fraud.
 
-#### AD 10.7.1.2 - Liability for Economic Benefit Derived
+#### AD 10.7.1.1 - Liability for Loss Suffered by Corporation
 
-8.10 The Applicant cites liability for economic benefit. The economic benefits derived include: (1) R900,000 unauthorized transfers; (2) R5.4M stock "disappeared" from Strategic Logistics; (3) R1,035,000 owed to Kayla's estate; (4) 86% profit margin on Villa Via rent; (5) Customer diversion to regimaskin.co.za (Adderory).
+8.10 The Applicant cites liability for loss suffered by corporation. The losses include: (1) R900,000 unauthorized transfers; (2) R5.4M stock "disappeared" from Strategic Logistics; (3) Revenue diversion to competing domain; (4) Card cancellation sabotage; (5) Data expungement.
 
-#### AD 10.7.1.4 - Liability for Loss Suffered by Corporation
+#### AD 10.7.1.2 - Economic Benefit Derived by Member
 
-8.11 The Applicant cites liability for corporate loss. The losses suffered include: (1) RegimA SA: R900K unauthorized transfers, revenue diversion starting 1 Mar 2025, Shopify data expunged 22 May 2025; (2) RegimA Zone: Customer diversion to competing domain, card cancellation sabotage; (3) Strategic Logistics: R5.4M stock "disappeared"; (4) RegimA Worldwide: Forced to pay 2 years of unallocated expenses from all companies.
+8.10A The Applicant cites liability for economic benefit. The economic benefits derived include: (1) R900,000 unauthorized transfers; (2) R5.4M stock "disappeared" from Strategic Logistics; (3) R1,035,000 owed to Kayla's estate; (4) 86% profit margin on Villa Via rent; (5) Customer diversion to regimaskin.co.za (Adderory).
 
 #### AD 10.8 - Disqualification for Misconduct Under Section 47
 
@@ -255,29 +255,33 @@ do hereby make oath and state that:
 
 8.20 The Applicant seeks probation under Section 162(7). This section applies when conduct is oppressive or unfairly prejudicial. The oppressive conduct includes: (1) I fulfilled fiduciary duty by investigating debt, then was punished with interdict; (2) Second Respondent exposed fraud to accountant, then suffered six-month sabotage campaign; (3) Both excluded from profitable businesses we built.
 
-#### AD 10.10.2.3 - Oppressive or Prejudicial Exercise of Powers
+#### AD 10.10.1 - Conduct Materially Inconsistent with Duties
 
-8.21 The Applicant alleges oppressive exercise of powers. The oppressive exercise of powers includes: (1) Applicant used trustee powers to attack beneficiaries; (2) Mr. Bantjies used trustee powers to dismiss audit request and facilitate fraud; (3) Applicant used director powers to make unauthorized R900K transfers; (4) Applicant used court process to obtain ex parte order based on material non-disclosures.
+8.21 The Applicant alleges conduct inconsistent with duties. The conduct inconsistent with duties includes: (1) Trustee attacking beneficiaries (Applicant, Mr. Bantjies); (2) Director making unauthorized transfers (Applicant); (3) Trustee dismissing fraud investigation (Mr. Bantjies); (4) Accountant facilitating fraud while being debtor (Mr. Bantjies); (5) Administrator controlling systems while diverting revenue (Ms. Farrar).
 
-#### AD 10.10.2.4 - Conduct with Oppressive or Prejudicial Result
+#### AD 10.10.2 - Grounds Under Section 162(a)(iii)
 
-8.22 The Applicant alleges conduct with prejudicial result. The prejudicial results include: (1) I was excluded from companies after investigating fraud; (2) Second Respondent excluded from R34.9M operations he built; (3) Customers diverted to competing domain owned by Ms. Farrar's son; (4) R900K transferred without authorization; (5) R5.4M stock "disappeared"; (6) R1,035,000 owed to Kayla's estate unpaid.
+8.22 The Applicant invokes Section 162(a)(iii) grounds for probation.
 
-#### AD 10.10.22 - Business Conducted in Oppressive Manner
+#### AD 10.10.2.1 - Conduct with Oppressive or Prejudicial Result
 
-8.23 The Applicant alleges oppressive business conduct. The oppressive conduct includes: (1) Ms. Farrar controlled all systems using Applicant's email while claiming to act under Mr. Bantjies's instructions; (2) Applicant had no access to email, bank accounts, or accounting systems; (3) Two years of expenses unallocated despite employed bookkeeper; (4) Mr. Bantjies (Trustee + Debtor + Accountant) dismissed fraud investigation.
+8.23 The Applicant alleges conduct with prejudicial result. The prejudicial results include: (1) I was excluded from companies after investigating fraud; (2) Second Respondent excluded from R34.9M operations he built; (3) Customers diverted to competing domain owned by Ms. Farrar's son; (4) R900K transferred without authorization; (5) R5.4M stock "disappeared"; (6) R1,035,000 owed to Kayla's estate unpaid.
 
-#### AD 10.10.41 - Conduct Inconsistent with Duties
+#### AD 10.10.2.2 - Business Conducted in Oppressive Manner
 
-8.24 The Applicant alleges conduct inconsistent with duties. The conduct inconsistent with duties includes: (1) Trustee attacking beneficiaries (Applicant, Mr. Bantjies); (2) Director making unauthorized transfers (Applicant); (3) Trustee dismissing fraud investigation (Mr. Bantjies); (4) Accountant facilitating fraud while being debtor (Mr. Bantjies); (5) Administrator controlling systems while diverting revenue (Ms. Farrar).
+8.24 The Applicant alleges oppressive business conduct. The oppressive conduct includes: (1) Ms. Farrar controlled all systems using Applicant's email while claiming to act under Mr. Bantjies's instructions; (2) Applicant had no access to email, bank accounts, or accounting systems; (3) Two years of expenses unallocated despite employed bookkeeper; (4) Mr. Bantjies (Trustee + Debtor + Accountant) dismissed fraud investigation.
+
+#### AD 10.10.2.3 - Powers Exercised in Oppressive Manner
+
+8.25 The Applicant alleges oppressive exercise of powers. The oppressive exercise of powers includes: (1) Applicant used trustee powers to attack beneficiaries; (2) Mr. Bantjies used trustee powers to dismiss audit request and facilitate fraud; (3) Applicant used director powers to make unauthorized R900K transfers; (4) Applicant used court process to obtain ex parte order based on material non-disclosures.
 
 #### AD 10.13 - Unaccounted Money - Significant Sums
 
-8.25 The Applicant alleges unaccounted money. The unaccounted money includes: (1) R900,000 unauthorized transfers (14-15 Feb 2025); (2) R5.4 million stock "disappeared" from Strategic Logistics; (3) R1,035,000 owed to Kayla's estate since Feb 2023; (4) R1.73 million transferred 11 Sep 2025; (5) Two years of unallocated expenses dumped into RegimA Worldwide on 30 Mar 2025.
+8.26 The Applicant alleges unaccounted money. The unaccounted money includes: (1) R900,000 unauthorized transfers (14-15 Feb 2025); (2) R5.4 million stock "disappeared" from Strategic Logistics; (3) R1,035,000 owed to Kayla's estate since Feb 2023; (4) R1.73 million transferred 11 Sep 2025; (5) Two years of unallocated expenses dumped into RegimA Worldwide on 30 Mar 2025.
 
 #### AD 10.14 - Full Extent of Transgressions Not Yet Determined
 
-8.26 The Applicant claims full extent not yet determined. The full extent includes: (1) Mr. Bantjies's undisclosed trustee status; (2) Mr. Bantjies's R18.685M debt; (3) Ms. Farrar's control of Applicant's email; (4) Ms. Farrar's son's competing domain; (5) Adderory's stock supply relationship; (6) R5.4M stock transfer pricing scheme; (7) Court order seizing Kayla's email during law enforcement investigation.
+8.27 The Applicant claims full extent not yet determined. The full extent includes: (1) Mr. Bantjies's undisclosed trustee status; (2) Mr. Bantjies's R18.685M debt; (3) Ms. Farrar's control of Applicant's email; (4) Ms. Farrar's son's competing domain; (5) Adderory's stock supply relationship; (6) R5.4M stock transfer pricing scheme; (7) Court order seizing Kayla's email during law enforcement investigation.
 
 ---
 
