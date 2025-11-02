@@ -1,0 +1,55 @@
+INDEX / Table of Contents
+Affidavit File Groupings for Peter Faucitt's Founding Affidavit
+
+This index maps each grouped section to its filename and the corresponding paragraph markers from the original affidavit.
+
+File name                                               | Group                        | Start paragraph / heading                  | End paragraph / heading
+------------------------------------------------------- | ---------------------------- | ------------------------------------------ | ------------------------------------------
+Section_1-6_Legal_Opening.txt                          | Sections 1–6 (Legal opening) | 1. INTRODUCTION — AD 1.1                   | 6. RELATIONSHIPS — AD 6.5
+Section_7_Discovery_of_Financial_Irregularities.txt    | Section 7                    | 7. DISCOVERY OF FINANCIAL IRREGULARITIES — AD 7.1 | 7.20 THE R500,000 PAYMENT — AD 7.20
+Section_8_IT_Expenses_Analysis.txt                     | Section 8                    | 8. IT EXPENSES ANALYSIS — AD 8.1           | AD 8.10
+Section_9_Substantial_Financial_Misconduct.txt         | Section 9                    | 9. SUBSTANTIAL FINANCIAL MISCONDUCT — AD 9.1 | AD 9.4
+Section_10_Delinquency_and_Probation.txt               | Section 10                   | 10. DELINQUENCY AND PROBATION APPLICATION — AD 10.1 | AD 10.13
+Section_11_UK_Operations.txt                           | Section 11                   | 11. UK OPERATIONS — AD 11.1                | AD 11.9
+Section_12-18_Legal_Closing.txt                        | Sections 12–18 (Legal closing) | 12. NECESSITY OF RELIEF — AD 12.1        | PRAYER / CERTIFICATION
+
+---
+
+HOW TO USE THESE FILES
+
+The grouped text files can be converted to Word documents (.docx) or PDF files:
+
+1. Copy the text from one of the section files listed above.
+2. Open Microsoft Word or Google Docs.
+3. Paste the text into a blank document.
+4. Save As → choose Word Document (.docx).
+5. To get PDF: Save As → PDF (or File → Export → Create PDF/XPS).
+
+---
+
+FILE DESCRIPTIONS
+
+Section_1-6_Legal_Opening.txt
+Contains the legal opening sections including: Introduction, Applicant details, Identification of all Respondents (first through ninth), Jurisdiction, Locus Standi, and Relationships between parties.
+
+Section_7_Discovery_of_Financial_Irregularities.txt
+Details the discovery of financial irregularities in mid-June 2025, including IT-related expenses, communications with the son, and the R500,000 payment made as a "birthday gift."
+
+Section_8_IT_Expenses_Analysis.txt
+Analyzes IT-related expenses over the 2024-2025 financial years, totaling R6,738,007.47 (2024) and R2,116,159.47 (2025), most of which are unexplained and create tax problems.
+
+Section_9_Substantial_Financial_Misconduct.txt
+Addresses the substantial financial misconduct allegations, noting that the respondent corporations are not technology resellers and the expenses are unrelated to their business.
+
+Section_10_Delinquency_and_Probation.txt
+Outlines the legal grounds for seeking an order declaring the first and second respondents delinquent or placing them under probation, citing relevant sections of the Companies Act and Close Corporations Act.
+
+Section_11_UK_Operations.txt
+Discusses the UK operations including RegimA UK Ltd and its subsidiary companies, the son's appointment to oversee them, and concerns about non-payment from the UK branch.
+
+Section_12-18_Legal_Closing.txt
+Contains the legal closing sections including: Necessity of Relief, Interdicts Sought, Other Relief Sought, Urgency, Ex Parte Application, Costs, and the Prayer/Certification.
+
+---
+
+END OF INDEX
