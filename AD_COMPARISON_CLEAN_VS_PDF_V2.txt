@@ -1,0 +1,14 @@
+AD Paragraph Comparison: Clean Version vs PDF Extraction
+======================================================================
+
+Clean version: 141 AD paragraphs
+PDF version: 139 AD paragraphs
+
+AD paragraphs ONLY in clean version (3):
+  - AD 10.10.2.1
+  - AD 10.10.2.2
+  - AD 10.10.2.3
+
+AD paragraphs ONLY in PDF version (1):
+  - AD 5300
+
